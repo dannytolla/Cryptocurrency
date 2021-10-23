@@ -25,7 +25,7 @@ a:hover{
 
 .navbar{
     flex: 0.2;
-    background-color: rgb(0, 21, 41);
+    background-color: rgb(197, 223, 240);
 }
 
 .main{
@@ -41,6 +41,8 @@ a:hover{
     left: 0;
     margin: 10px;
     height: 100vh;
+    padding-left: 10px;
+    font-weight: 600;
     margin: 0px;
     background-color: rgb(0, 21, 41);
 }
